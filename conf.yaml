@@ -1,0 +1,5 @@
+train: /home/ayaan/code/NumberPlateDetection-using-YOLO/Data/images/train
+val: /home/ayaan/Desktop/NumberPlateDetection/Data/images/val  
+test: /home/ayaan/Desktop/NumberPlateDetection/Data/images/test
+nc: 1
+names: ["Container"]
